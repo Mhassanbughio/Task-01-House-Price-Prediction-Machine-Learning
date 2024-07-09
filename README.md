@@ -12,6 +12,9 @@ the price of a house.
 
 ## Key Steps:
 1 Data cleaning and preprocessing
+
 2 Feature engineering
+
 3 Model selection and training (e.g., linear regression)
+
 4 Model evaluation and fine-tuning
