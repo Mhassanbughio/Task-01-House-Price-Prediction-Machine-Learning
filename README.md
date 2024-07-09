@@ -1,6 +1,5 @@
-## Task 1
 
-## Predicting House Prices:
+## Predicting House Prices: Machine Learning 
 Objective: Build a model to predict house prices
 based on various features.
 
